@@ -1,0 +1,22 @@
+.bodycontainer{
+    padding-bottom: 2%;
+    width: 100%;
+    background-color: #EEEEEE;
+}
+
+h1{
+    
+    padding: 2% 0% 2% 0%;
+}
+.acceuilimage{
+    float: left;
+    margin-right: 1.5%;
+}
+
+.acceuiltexte{
+   
+}
+
+.clear{
+    clear: both;
+}
