@@ -12,7 +12,7 @@ Portfolio de Lucile DESIRAT, étudiante en BTS SIO
 - **CSS** : Langage de style utilisé pour mettre en forme les pages web
 - **Bootstrap** : Framework graphique utilisé pour faciliter la création de pages web (utilisation d'une base de règles CSS existantes)
 - **Git** : Logiciel de gestion de version
-- **GitHub** : Forge logicielle en ligne utilisant Git
+- **GitHub** : Forge logicielle en ligne utilisant Git 
 
 #### 2. Pour l'épreuve E4
 - Je me présente et présente mon parcours, j'affiche mon CV
