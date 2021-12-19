@@ -5,7 +5,7 @@ Portfolio de Lucile DESIRAT, étudiante en BTS SIO
 
 #### 1. Mettre en oeuvre les technologies web pour creer et heberger mon Portfolio
 
-<img src="Images/logoNetbeans.png" height="80"/><img src="Images/logoHTML5.png" height="80"/> <img src="Images/logoCSS3.png" height="80"/> <img src="Images/logoBootstrap.png" height="80"/> <img src="Images/logoGit1.png" height="100"/> <img src="Images/logoGit2.png" height="80"/>
+<img src="images/logoNetbeans.png" height="80"/><img src="images/logoHTML5.png" height="80"/> <img src="images/logoCSS3.png" height="80"/> <img src="images/logoBootstrap.png" height="80"/> <img src="images/logoGit1.png" height="100"/> <img src="images/logoGit2.png" height="80"/>
 
 - **NetBeans** : Environnement de développement intégré (IDE) utilisé pour ce projet
 - **HTML** : Langage de description utilisé pour concevoir les pages web
