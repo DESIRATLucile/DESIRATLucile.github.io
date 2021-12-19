@@ -1,0 +1,24 @@
+.container-centre-appliandroid img{
+    border: solid 5px #5B0675;
+}
+
+.jumbotron, .card {
+    background: none;
+}
+
+
+.jumbotron-heading{
+    font-family: "Lemonmilk";
+    color: white;
+}
+
+.container p{
+    
+    font-size: 1.5em;
+}
+
+.container{
+    font-family: "GeosansLight";
+    color: white;
+    
+}

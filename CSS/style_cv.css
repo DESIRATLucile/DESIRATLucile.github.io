@@ -1,0 +1,161 @@
+/*------------------------------------------------------------
+GLOBAL
+------------------------------------------------------------*/
+
+.container-centre-cv{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-auto-rows: minmax(220px, 300px);
+    grid-gap:2%;
+    padding: 10px 10px 90px 10px;
+    overflow-y: scroll;
+    height:95%;
+    font-family: "GeosansLight";
+    color: White;
+}
+
+.container-centre-cv>div{
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+h4{
+    text-align: center;
+    margin:0;
+}
+
+h6{
+    color: White;
+    font-size: 1.1em;
+}
+
+h6 [class*='fa'], h4 [class*='fa']{
+    margin-right: 20px;
+}
+
+/*------------------------------------------------------------
+BLOC 1
+------------------------------------------------------------*/
+.container-centre-cv .un{
+    grid-row: 1/4;
+}
+
+.grid-bloc-un{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.grid-bloc-un h6{
+    margin-top: 15%;
+}
+
+.grid-bloc-un-droite h6{
+    opacity:0;
+}
+
+
+/*------------------------------------------------------------
+BLOC 2
+------------------------------------------------------------*/
+
+.container-centre-cv .deux{
+    grid-row: 1/4;
+
+}
+
+.grid-bloc-deux{
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    grid-auto-rows: minmax(auto, 100px);
+    grid-gap:2%;
+    margin-top: 15px;
+}
+
+.grid-bloc-deux-droite h6{
+    opacity:0;
+}
+
+/*------------------------------------------------------------
+BLOC 3
+------------------------------------------------------------*/
+
+.container-centre-cv .trois{
+    grid-column: 1;
+    grid-row: 4/5;
+}
+
+.container-centre-cv .trois h4{
+    margin-bottom: 15px;
+}
+
+.grid-bloc-trois{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+
+/*------------------------------------------------------------
+BLOC 4
+------------------------------------------------------------*/
+
+
+.container-centre-cv .quatre{
+    grid-column: 1;
+    grid-row: 5/7;
+}
+
+.container-centre-cv .quatre h4{
+    margin-bottom: 15px;
+}
+
+.grid-bloc-quatre{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+/*------------------------------------------------------------
+BLOC 5
+------------------------------------------------------------*/
+
+
+.grid-bloc-cinq{
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    grid-auto-rows: minmax(auto, 130px);
+    grid-gap: 2%;
+    margin-top: 20px;
+}
+
+
+
+.container-centre-cv .cinq{
+    grid-column: 2;
+    grid-row: 4/7;
+}
+
+
+
+
+
+::-webkit-scrollbar {
+      width: 10px;
+} 
+
+::-webkit-scrollbar-track {
+      background-color: #4E2859;
+} 
+::-webkit-scrollbar-thumb {
+      background-color: #DEAD41;
+      box-shadow: 
+        inset 1px 1px 3px #F6CA6A, 
+        inset -1px -1px 6px #9C7318;
+      border-radius: 10px;
+} 
+::-webkit-scrollbar-button {
+      background-color: #381B40;
+} 
+::-webkit-scrollbar-corner {
+      background-color: black;
+}
